@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+div{
+    border: 2px gray solid ;
+    padding: 5px;
+    margin: 5px;
+
+}
+.kutu {
+    opacity: 0.5;
+}
+@media screen {
+    .kutu 
+        }
